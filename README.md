@@ -10,8 +10,8 @@
  The asmMain then calls another function, written in C/C++, passing on the offset of the updated first array, that prints its contents    and returns to asmMain. Controlled is finally transferred back to main function in C/C++  to complete the program.
 
 
-# Descriptioon of this Task is Mentioned above
-# This code is writen in Assembly and C++.
+ Descriptioon of this Task is Mentioned above
+ This code is writen in Assembly and C++.
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-# Muhammad Hamza
-# Namal College Mianwali (UET Lahore Campus) 
+ Muhammad Hamza
+ Namal College Mianwali (UET Lahore Campus) 
 
 
