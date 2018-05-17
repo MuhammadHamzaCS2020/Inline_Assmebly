@@ -1,7 +1,7 @@
 # Inline_Assmebly
 # Calculate_Sum_of_Arrays_Using_Inline_Assmebly
 
-# ................This is My Lab Task given in Assebmly LAnguage Coures..........................
+# ....... This is My Lab Task given in Assebmly LAnguage Coures.......
 #                        Description of this Task
 
 
@@ -11,8 +11,11 @@
 
 
 # Descriptioon of this Task is Mentioned above
-# This code is writen in Assembly and C++. 
-  # ................................................... How it Work..........................................................
+# This code is writen in Assembly and C++.
+
+
+
+  # .....How it Work .......
 #  First of Start from main.cpp file and create three arrays with same size then send these arrays to a Assembly language function name     asmMain.asm this assembly language function accept these arrays and call c++ functionn to fill these array. After that it call aasemly   # function and passed these arrays and calculate the sum of these arrays and again store in array1. After this function asmMain function   # call C++ function and show the Sum of these Arrays and Back to main cpp file... 
 
 
